@@ -1,0 +1,11 @@
+#gambar {
+    /* background-color: #3B579D; */
+    background-image: url("a2.jpg");
+    background-size:cover;
+}
+
+#shadow {
+    text-shadow: 5px 6px 7px rgb(34, 34, 34);
+    font-size: 40px;
+}
+
